@@ -13,6 +13,5 @@ printf("double to float\t%f\n",(float)d);
 
 printf("int to double\t%lf\n",(double)i);
 printf("float to double\t%lf\n",(double)f);
-
 return 0;
 }
